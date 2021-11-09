@@ -1,0 +1,8 @@
+require('mdotmertens/packer')
+require('mdotmertens/lualine')
+require('mdotmertens/settings')
+require('mdotmertens/telescope')
+require('mdotmertens/keybinds')
+require('mdotmertens/treesitter')
+require('mdotmertens/lsp')
+require('mdotmertens/cmp')
